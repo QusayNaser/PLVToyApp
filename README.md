@@ -1,4 +1,4 @@
-# Hello
+# ToyApp
 
 To start your Phoenix server:
 

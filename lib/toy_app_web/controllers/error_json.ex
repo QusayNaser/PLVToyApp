@@ -1,4 +1,4 @@
-defmodule HelloWeb.ErrorJSON do
+defmodule ToyAppWeb.ErrorJSON do
   @moduledoc """
   This module is invoked by your endpoint in case of errors on JSON requests.
 
